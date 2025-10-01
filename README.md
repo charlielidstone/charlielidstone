@@ -1,4 +1,4 @@
-### Hello there
+### Hello there 👋
 1st year engineering student at University of Victoria
 
 <!--
