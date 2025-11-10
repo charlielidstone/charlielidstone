@@ -5,7 +5,7 @@ Welcome to my GitHub
 
 🎮 Check out my [tic-tac-toe bot](https://github.com/charlielidstone/tic-tac-toe)
 
-💻 Currently learning SFML for game development 🔥
+💻 Currently learning SFML for game development
 
 <!--
 **charlielidstone/charlielidstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
