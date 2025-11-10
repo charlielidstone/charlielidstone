@@ -1,11 +1,11 @@
 ### Hello there 👋
 Welcome to my GitHub
 
-1st year engineering student at University of Victoria
+🎓 1st-year engineering student at the University of Victoria 🦫
 
-Check out my [tic-tac-toe bot](https://github.com/charlielidstone/tic-tac-toe)
+🎮 Check out my [tic-tac-toe bot](https://github.com/charlielidstone/tic-tac-toe)
 
-Currently learning SFML for game development
+💻 Currently learning SFML for game development 🔥
 
 <!--
 **charlielidstone/charlielidstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
