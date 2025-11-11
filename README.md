@@ -1,6 +1,6 @@
 👋 Hello there, I'm Charlie Lidstone
 
-🎓 1st-year engineering student at the University of Victoria 🦫
+🎓 1st-year engineering student at the University of Victoria
 
 🎮 Check out my [tic-tac-toe bot](https://github.com/charlielidstone/tic-tac-toe)
 
