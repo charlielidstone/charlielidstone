@@ -1,6 +1,4 @@
-Hello there 👋
-
-I'm Charlie
+👋 Hello there, I'm Charlie Lidstone
 
 🎓 1st-year engineering student at the University of Victoria 🦫
 
