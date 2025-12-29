@@ -2,7 +2,7 @@
 
 🎓 1st-year engineering student at the University of Victoria
 
-🎮 Check out my [tic-tac-toe bot](https://github.com/charlielidstone/tic-tac-toe)
+🎮 Check out my [tic-tac-toe bot](https://github.com/charlielidstone/tic-tac-toe) or my [rocket simulator](https://github.com/charlielidstone/spacecraft-simulator)
 
 💻 Currently learning SFML for game development
 
