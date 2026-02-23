@@ -4,7 +4,7 @@
 
 🎮 Check out my [tic-tac-toe bot](https://github.com/charlielidstone/tic-tac-toe) or my [rocket simulator](https://github.com/charlielidstone/spacecraft-simulator)
 
-💻 Currently learning SFML for game development
+💻 Currently working on my C++ skills and building my [portfolio](https://github.com/charlielidstone/Portfolio)
 
 <!--
 **charlielidstone/charlielidstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
