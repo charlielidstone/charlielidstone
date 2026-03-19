@@ -6,7 +6,7 @@
 
 💻 Currently improving my C++ skills and building my [portfolio](https://github.com/charlielidstone/Portfolio)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlielidstone&text_color=ffffff&icon_color=238636&bg_color=010409)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlielidstone&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **charlielidstone/charlielidstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
