@@ -6,8 +6,7 @@
 
 💻 Currently improving my C++ skills and building my [portfolio](https://github.com/charlielidstone/Portfolio)
 
-[![Charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlielidstone)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlielidstone&commits_year=2020)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlielidstone&show_icons=true)
 
 <!--
 **charlielidstone/charlielidstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
