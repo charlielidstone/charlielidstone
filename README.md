@@ -4,7 +4,7 @@
 
 🎮 Check out my [tic-tac-toe bot](https://github.com/charlielidstone/tic-tac-toe) or my [rocket simulator](https://github.com/charlielidstone/spacecraft-simulator)
 
-💻 Currently building my [portfolio](https://github.com/charlielidstone/Portfolio)
+💻 Currently building my [portfolio](https://github.com/charlielidstone/Portfolio) at [www.charlielidstone.ca](https://www.charlielidstone.ca)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlielidstone&theme=catppuccin_mocha&border_color=#292940&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
